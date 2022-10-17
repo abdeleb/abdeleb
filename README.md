@@ -1,7 +1,5 @@
 <h1 align="center">Hi , I'm Abdel Eb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br>
-
 ### About me
 
 - :school: I'm a Junior <strong>Front-End Developer</strong> graduate at Ironhack.

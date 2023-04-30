@@ -2,7 +2,7 @@
 
 ### About me
 
-- :school: I'm a Junior <strong>Front-End Developer</strong> graduate at Ironhack.
+- :school: I'm a <strong>Web Developer</strong> graduate at Ironhack.
 - :technologist: I love developing digital products and solving problems.
 - :computer: I'm also interested in Computer Science and Software Engineering.
 - :student: Currently learning: React with new documentation.

@@ -14,16 +14,17 @@
 ### Languages 🌐
 
 - 🔤 Javascript
+- 🔡 PHP (Laravel)
 - 🔠 Typescript
 - 📔 C
 
 ### Frontend 🖥️
 
 - 📙 HTML5
-- 🎨 CSS3: SASS / Tailwind / Boostrap
+- 🎨 CSS3: SASS / Tailwind / Boostrap / ...
 - 📒 Vite or Webpack
-- 📘 React: Vite
-- 📗 Vue: Vite / Pinia / Router / Vuex
+- 📘 React
+- 📗 Vue: Pinia / Router / Vuex
 - ⬜ NextJS
 - 💠 NuxtJS
 - 🌐 Quasar
@@ -32,7 +33,7 @@
 
 - 🟢 Node (Express)
 - ↔️ REST API managment
-- 💾 SQL: MySQL / Postgres
+- 💾 SQL: MySQL / MariaDB
 - 🔀 NoSQL: MongoDB
 - 📙 Firebase
 - 📗 Supabase

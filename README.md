@@ -2,20 +2,19 @@
 
 ### About me
 
-- :school: I'm a <strong>Web Developer</strong> graduate at Ironhack.
+- :school: I'm a <strong>Full Stack Developer</strong> graduate at Ironhack.
 - :technologist: I love developing digital products and solving problems.
 - :computer: I'm also interested in Computer Science and Software Engineering.
-- :student: Currently learning: React with new documentation.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY PORTFOLIO](https://abdeleb.me/).
-- :nerd_face: Always `learning new things`.
+- :student: Currently learning: Laravel 10.
+- :thinking: I’m currently: `working` at Andreani MHS.
+- :nerd_face: Always `learning new things`, broswe [MY PORTFOLIO](https://abdeleb.me/).
 
 <br>
 
 ### Languages 🌐
 
 - 🔤 Javascript
-- 🔡 PHP (Laravel)
-- 🔠 Typescript
+- 🔡 PHP
 - 📔 C
 
 ### Frontend 🖥️

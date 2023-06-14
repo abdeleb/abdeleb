@@ -6,7 +6,7 @@
 - :technologist: I love developing digital products and solving problems.
 - :computer: I'm also interested in Computer Science and Software Engineering.
 - :student: Currently learning: Laravel 10.
-- :thinking: I’m currently: `working` at Andreani MHS.
+- :thinking: I’m currently: `working` as Full Stack Developer.
 - :nerd_face: Always `learning new things`, broswe [MY PORTFOLIO](https://abdeleb.me/).
 
 <br>

@@ -6,7 +6,7 @@
 - :technologist: I love developing digital products and solving problems.
 - :computer: I'm also interested in Computer Science and Software Engineering.
 - :thinking: I’m currently: `working` as a Full Stack Developer at company from Barcelona.
-- :nerd_face: Always `learning new things`, broswe [MY WEBPAGE](https://abdeleb.me/).
+- :nerd_face: Always `learning new things`, broswe [my website](https://abdeleb.me/).
 
 ### Languages 🌐
 

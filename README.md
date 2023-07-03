@@ -2,14 +2,11 @@
 
 ### About me
 
-- :school: I'm a <strong>Full Stack Developer</strong> graduate at Ironhack.
+- :school: I'm a <strong>Full Stack Developer</strong>.
 - :technologist: I love developing digital products and solving problems.
 - :computer: I'm also interested in Computer Science and Software Engineering.
-- :student: Currently learning: Laravel 10.
 - :thinking: I’m currently: `working` as a Full Stack Developer at company from Barcelona.
-- :nerd_face: Always `learning new things`, broswe [MY PORTFOLIO](https://abdeleb.me/).
-
-<br>
+- :nerd_face: Always `learning new things`, broswe [MY WEBPAGE](https://abdeleb.me/).
 
 ### Languages 🌐
 
@@ -30,7 +27,7 @@
 
 ### Backend 🗄️
 
-- 🟢 Node (Express)
+- 🟢 Node JS (Express)
 - ↔️ REST API managment
 - 💾 SQL: MySQL / MariaDB
 - 🔀 NoSQL: MongoDB
@@ -42,6 +39,11 @@
 - 📜 Bash / Shell
 - 🔘 Phyton
 - 🔵 Lua
+
+### Testing ✔️
+
+- 🟩 Playwright
+- 🟢 Jest
 
 ### Others 🔀
 

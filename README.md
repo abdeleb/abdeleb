@@ -10,8 +10,9 @@
 
 ### Languages 🌐
 
-- 🔤 Javascript
-- 🔡 PHP
+- 💠 Typescript
+- 🟡 Javascript
+- 🔵 PHP
 - 📔 C
 
 ### Frontend 🖥️

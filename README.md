@@ -53,5 +53,3 @@
 - ⚡ Vim / Emacs
 
 #### Get in touch ✉️ contacto@abdeleb.me
-
-![](https://komarev.com/ghpvc/?username=abdeleb)

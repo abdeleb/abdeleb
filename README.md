@@ -29,6 +29,7 @@
 ### Backend 🗄️
 
 - 🟢 Node JS (Express)
+- 🟠 Laravel
 - ↔️ REST API managment
 - 💾 SQL: MySQL / MariaDB
 - 🔀 NoSQL: MongoDB

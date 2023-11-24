@@ -29,7 +29,7 @@
 - 🟢 Node JS (Express)
 - 🟠 Laravel
 - ↔️ REST API managment
-- 💾 SQL: MySQL / MariaDB
+- 💾 SQL: MySQL / MariaDB / PostgresSQL
 - 🔀 NoSQL: MongoDB
 
 ### Scripting 📜

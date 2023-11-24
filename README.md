@@ -5,25 +5,23 @@
 - :school: I'm a <strong>Full Stack Developer</strong>.
 - :technologist: I love developing digital products and solving problems.
 - :computer: I'm also interested in Computer Science and Software Engineering.
-- :thinking: I’m currently: `working` as a Full Stack Developer at company from Barcelona.
+- :thinking: I’m currently: `working` as a Full Stack Developer at CLICKO.
 - :nerd_face: Always `learning new things`, broswe [my website](https://abdeleb.me/).
 
 ### Languages 🌐
 
-- 💠 Typescript
 - 🟡 Javascript
 - 🔵 PHP
+- 💠 Typescript
 - 📔 C
 
 ### Frontend 🖥️
 
 - 📙 HTML5
 - 🎨 CSS3: SASS / Tailwind / Boostrap / ...
-- 📒 Vite or Webpack
-- 📘 React
 - 📗 Vue: Pinia / Router / Vuex
-- ⬜ NextJS
-- 💠 NuxtJS
+- 📗 NuxtJS
+- 📒 Vite and Webpack
 - 🌐 Quasar
 
 ### Backend 🗄️
@@ -33,8 +31,6 @@
 - ↔️ REST API managment
 - 💾 SQL: MySQL / MariaDB
 - 🔀 NoSQL: MongoDB
-- 📙 Firebase
-- 📗 Supabase
 
 ### Scripting 📜
 
@@ -45,12 +41,13 @@
 ### Testing ✔️
 
 - 🟩 Playwright
+- 🔵 PHPUnit
 - 🟢 Jest
 
 ### Others 🔀
 
 - 🌱 Figma
 - 📙 Vercel / Netlify
-- ⚡ Vim / Emacs
+- ⚡ VSC / PHPStorm / Vim / Emacs
 
 #### Get in touch ✉️ contacto@abdeleb.me

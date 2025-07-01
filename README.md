@@ -1,53 +1,115 @@
-<h1 align="center">Hi , I'm Abdel Eb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Abdel Eb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
-### About me
+<p align="center">
+  💻 Full Stack Developer | 🧠 AI Explorer | 🛠️ Product Builder  
+</p>
 
-- :school: I'm a <strong>Full Stack Developer</strong>.
-- :technologist: I love developing digital products and solving problems.
-- :computer: I'm also interested in Computer Science and Software Engineering.
-- :thinking: I’m currently: `working` as a Full Stack Developer at CLICKO.
-- :nerd_face: Always `learning new things`, broswe [my website](https://abdeleb.me/).
+---
 
-### Languages 🌐
+### 🧑‍💻 About Me
 
-- 🟡 Javascript
+- I'm a **Full Stack Developer** passionate about building digital products and solving real-world problems.
+- I'm actually interested in **Generative AI**.
+- Currently building SaaS tools and AI-driven platforms.
+- Always learning — explore more on [abdeleb.me](https://abdeleb.me/).
+
+---
+
+### 🧠 AI / LLM Stack
+
+- 🔍 **RAG (Retrieval-Augmented Generation)**
+- 🧩 **Chunking Strategies** for documents
+- 🔗 **LangChain**: agents, tools, chains
+- 📚 **Vector Databases**: Weaviate / ChromaDB / Pinecone
+- 🧠 Embedding Models: OpenAI / HuggingFace / Ollama
+- 💬 LLM-Oriented APIs: OpenAI, Groq, Local LLMs
+
+---
+
+### 🌐 Languages
+
+- 🟡 JavaScript
+- 💠 TypeScript
 - 🔵 PHP
-- 💠 Typescript
-- 📔 C
-
-### Frontend 🖥️
-
-- 📙 HTML5
-- 🎨 CSS3: SASS / Tailwind / Boostrap / ...
-- 📗 Vue: Pinia / Router / Vuex
-- 📗 NuxtJS
-- 📒 Vite and Webpack
-- 🌐 Quasar
-
-### Backend 🗄️
-
-- 🟢 Node JS (Express)
-- 🟠 Laravel
-- ↔️ REST API managment
-- 💾 SQL: MySQL / MariaDB / PostgresSQL
-- 🔀 NoSQL: MongoDB
-
-### Scripting 📜
-
-- 📜 Bash / Shell
-- 🔘 Phyton
+- 📘 C/C++
+- 🧾 Bash / Shell
+- 🐍 Python
 - 🔵 Lua
 
-### Testing ✔️
+---
 
-- 🟩 Playwright
+### 🗄️ Backend
+
+- 🟢 Node.js (Express / Nest)
+- 🟠 Laravel (5+)
+- 🔄 REST API design & management
+- 📦 Clean Architecture / Hexagonal / DDD / CQRS 
+
+---
+
+### 🗃️ Databases
+
+- 💾 SQL: MySQL / MariaDB / PostgreSQL
+- 🔀 NoSQL: MongoDB
+- 🧠 Vector DBs: Weaviate / ChromaDB / Pinecone
+
+---
+
+### 🖥️ Frontend
+
+- 📙 HTML5
+- 🎨 CSS3 (SASS / Tailwind / Bootstrap)
+- 📗 Vue.js (Vuex / Pinia / Vue Router)
+- 📗 Nuxt.js
+- ⚡ Vite / Webpack
+
+---
+
+### 📱 Mobile
+
+- ⚛️ React Native (Expo)
+
+---
+
+### ⚗️ DevOps & Infra
+
+- 🐳 Docker
+- ⚙️ GitHub Actions
+- ☁️ Vercel / Netlify / Railway
+- 🌍 NGINX / Apache
+- 📤 Mailer & DNS Config
+
+---
+
+### ✅ Testing
+
+- 🟩 Playwright (e2e)
+- 🟢 Jest (unit testing)
 - 🔵 PHPUnit
-- 🟢 Jest
+- 🟣 Pest
 
-### Others 🔀
+---
 
-- 🌱 Figma
-- 📙 Vercel / Netlify
-- ⚡ VSC / PHPStorm / Vim / Emacs
+### 🛠️ Tools & Other Tech
 
-#### Get in touch ✉️ contacto@abdeleb.me
+- 🧠 Figma
+- ⚡ VS Code / PHPStorm / Vim / Emacs
+- 📂 Postman / Insomnia
+- 🧩 Composer / NPM / PNPM
+- 🔍 Chrome DevTools / Firefox DevTools
+
+---
+
+### 📈 Currently Exploring
+
+- 🧠 Local LLMs + RAG pipelines
+- 📊 Embedding-based semantic search
+- 🔒 AI + Privacy (self-hosted stacks)
+- 🤖 AI chat assistants for business workflows
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdeleb&show_icons=true&theme=radical" alt="Abdel's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeleb&layout=compact&theme=radical" height="150"/>
+</p>

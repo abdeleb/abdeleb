@@ -108,8 +108,3 @@
 - 🤖 AI chat assistants for business workflows
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdeleb&show_icons=true&theme=radical" alt="Abdel's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeleb&layout=compact&theme=radical" height="150"/>
-</p>
